@@ -6,7 +6,7 @@ channels:
   - defaults
   - nvidia
 dependencies:
-  - pytorch-cuda=12.1
+  - pytorch-cuda=11.8
   - biopython>=1.83
   - black>=24.2.0
   - bokeh>=3.3.4
