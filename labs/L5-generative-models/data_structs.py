@@ -8,7 +8,7 @@ import time
 import torch
 from torch.utils.data import Dataset
 
-from utils_reinvent import Variable
+from utils_x import Variable
 
 class Vocabulary(object):
     """A class for handling encoding/decoding from SMILES to an array of indices"""
